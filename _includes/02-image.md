@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![The Swiss Alps!](https://rowntheworld.files.wordpress.com/2008/05/dscf2935.jpg)
