@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Playing guitar and listening to music
+* Running and keeping fit
+* Learning Info Tech
+* Sunshine
